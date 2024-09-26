@@ -9,4 +9,6 @@
 ## Chapter 2: SEARCHING
 ## Chapter 4: LINKED LIST
 - [Quản lý sinh viên](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/QLSV.cpp)
-- [Lab 2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB2.cpp)
+- [Lab 2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Singly Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB2.cpp)
+- Lab 3: Quảng lý List kiểu số Nguyên & kiểu Sinh Viên (Circular Linked List)
+## PROJECT MID-TERM
