@@ -1,20 +1,21 @@
-<h1 align="center"> DSA DATA STRUCTURES & ALGORITHMS </h1>
+<h1 align="center"> 👨‍💻 DSA DATA STRUCTURES & ALGORITHMS 👨‍💻 </h1>
 
-## Chapter 1: SORTING
-- Selection Sort
-- Insertion Sort
-- Bubble Sort
-- Shake Sort
-- Quick Sort
-- Lab 1: Sắp xếp struct Sinh Viên
-## Chapter 2: SEARCHING
-## Chapter 4: LINKED LIST
+## 🔖 Chapter 1: SORTING
+- [Selection Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/SELECTION_SORT.cpp)
+- [Insertion Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/INSERTION_SORT.cpp)
+- [Bubble Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/BUBBLE_SORT.cpp)
+- [Shake Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/SHAKE_SORT.cpp)
+- [Quick Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/BAI1.cpp)
+- [Binary Insertion Sort](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/INSERTION_SORT_VER2.cpp)
+- [Lab 1: Sắp xếp struct Sinh Viên](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/SORTING/LAB1.cpp)
+## 🔖 Chapter 2: SEARCHING
+## 🔖 Chapter 4: LINKED LIST
 - [Quản lý sinh viên](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/QLSV.cpp)
 - [Lab 2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Singly Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB2.cpp)
 - [Lab 3_1: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Singly Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB3_1.cpp)
 - [Lab 3_2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Circular Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB3_2.cpp)
-## PROJECT MID-TERM
-## Chapter 5: STACK & QUEUE
+## 🔖 PROJECT MID-TERM
+## 🔖 Chapter 5: STACK & QUEUE
 ### *Stack*
 - [Stack kiểu mảng](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/STACK/ARRAY_STACK.cpp)
 - [Stack kiểu Linked List](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/STACK/LINKED_LIST_STACK.cpp)
