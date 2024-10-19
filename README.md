@@ -1,4 +1,5 @@
 <h1 align="center"> DSA DATA STRUCTURES & ALGORITHMS </h1>
+
 ## Chapter 1: SORTING
 - Selection Sort
 - Insertion Sort
