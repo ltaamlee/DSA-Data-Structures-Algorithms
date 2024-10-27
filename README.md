@@ -14,7 +14,7 @@
 - [Lab 2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Singly Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB2.cpp)
 - [Lab 3_1: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Singly Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB3_1.cpp)
 - [Lab 3_2: Quản lý List kiểu số Nguyên & kiểu Sinh Viên (Circular Linked List)](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/LINKED%20LIST/LAB3_2.cpp)
-## 🔖 PROJECT MID-TERM
+## 🔖 PROJECT MID-TERM 1
 ## 🔖 Chapter 5: STACK & QUEUE
 ### *Stack*
 - [Stack kiểu mảng](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/STACK/ARRAY_STACK.cpp)
@@ -30,3 +30,7 @@
 - [Queue kiểu mảng](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/QUEUE/ARRAY_QUEUE.cpp)
 - [Queue kiểu Linked List](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/QUEUE/LINKED_LIST_QUEUE.cpp)
 - [Quản lí kho hàng](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/QUEUE/BAI%203.cpp)
+## 🔖 Chapter 6: Tree
+### *Binary Tree*
+### *Binary Search Tree*
+## 🔖 PROJECT MID-TERM 2
