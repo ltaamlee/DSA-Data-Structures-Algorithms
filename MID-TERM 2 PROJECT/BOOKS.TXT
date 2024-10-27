@@ -1,0 +1,5 @@
+TT01,Detective Conan,Aoyama Gosho,1994
+SS112,Naruto,Kishimoto Masashi,2014
+HH02,Doraemon,Fujiko Fujio,1999
+HHTH4,Dragon Ball,Toriyama Akira,1989
+DM78,Demon Slayer,Gotoge Koyoharu,2016
