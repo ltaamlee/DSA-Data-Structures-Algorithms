@@ -33,4 +33,8 @@
 ## 🔖 Chapter 6: Tree
 ### *Binary Tree*
 ### *Binary Search Tree*
+- [Chiều cao của cây](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/TREE/Binary%20Tree/BAI%201.cpp)
+- [Node nhánh - Node lá](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/TREE/Binary%20Tree/BAI%202.cpp)
 ## 🔖 PROJECT MID-TERM 2
+- [Chiều cao của cây](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/blob/main/TREE/Binary%20Search%20Tree/BAI%201.cpp)
+- [BT](https://github.com/ltaamlee/DSA-Data-Structures-Algorithms/tree/main/TREE/Binary%20Search%20Tree)
