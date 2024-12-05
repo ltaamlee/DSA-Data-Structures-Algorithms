@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALCULATOR DSA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="calculator">
+            <form>
+                <div class="display">
+                    <input type="text" id="display" readonly placeholder="0">
+                </div>
+                <div>
+                    <input type="button" value="AC" onclick="clearScreen()">
+                    <input type="button" value="." onclick="PUSH('.')">
+                    <input type="button" value="^" onclick="PUSH('^')"> 
+                    <input type="button" value="/" onclick="PUSH('/')">
+                </div>
+                <div>
+                    <input type="button" value="7" onclick="PUSH('7')">
+                    <input type="button" value="8" onclick="PUSH('8')">
+                    <input type="button" value="9" onclick="PUSH('9')">
+                    <input type="button" value="*" onclick="PUSH('*')">
+                </div>
+                <div>
+                    <input type="button" value="4" onclick="PUSH('4')">
+                    <input type="button" value="5" onclick="PUSH('5')">
+                    <input type="button" value="6" onclick="PUSH('6')">
+                    <input type="button" value="-" onclick="PUSH('-')">
+                </div>
+                <div>
+                    <input type="button" value="1" onclick="PUSH('1')">
+                    <input type="button" value="2" onclick="PUSH('2')">
+                    <input type="button" value="3" onclick="PUSH('3')">
+                    <input type="button" value="+" onclick="PUSH('+')">
+                </div>
+                <div>
+                    <input type="button" value="0" onclick="PUSH('0')">
+                    <input type="button" value="(" onclick="PUSH('(')">
+                    <input type="button" value=")" onclick="PUSH(')')">
+                    <input type="button" value="=" onclick="cal()">
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="rpn.js"></script>
+</body>
+</html>

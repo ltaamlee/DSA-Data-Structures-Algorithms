@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+:root {
+    --body-bg : #a0ffcf;
+}
+
+body {
+    min-height: 100vh;
+    background: radial-gradient(at 10% 10%, var (--body-bg) 50%, rgb(135, 250, 215));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.calculator{
+    width: 280px;
+    height: 500px;
+    border-radius: 30px;
+    background: linear-gradient(130deg, #fff, #fff3);
+    z-index: 2;
+    backdrop-filter: blur(20px);
+    box-shadow: 50px 50px 200px #09a199;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    gap: 10px;
+}
+
+.display {
+    width: 100%;
+    height: 80px;
+    border: 0;
+    outline: none;
+    background: transparent;
+    padding: 5px;
+    text-align: right;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.calculator form input{
+    width: 50px;
+    aspect-ratio: 1;
+    border-radius: 50px;
+    border: 0;
+    outline: none;
+    background: #ffffff;
+    box-shadow: inset 0 0 8px #fff, 0 0 20px #1886532a;
+    color: rgb(0, 140, 150);
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.5s;
+    margin: 3px 3px 15px;
+    text-overflow: left;
+    overflow: scroll;
+}
+
+form .display{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+}
+
+form .display input{
+    text-align: right;
+    flex: 1;
+    font-size: 40px;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.calculator form input:hover {
+    background: #ffffffb4;
+    color: #1078ff;
+} 
